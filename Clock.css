@@ -1,0 +1,33 @@
+/* Digital Clock Styling */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c36;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.clock-container {
+    text-align: center;
+    background: #3b3f4a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#clock {
+    font-size: 48px;
+    font-weight: bold;
+    background: black;
+    padding: 15px 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
+}
