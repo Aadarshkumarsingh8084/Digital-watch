@@ -1,6 +1,6 @@
 # New-project
 <p>Digital Clock</p>
-Using HTML CSS and JS
+<h1>Using HTML CSS and JS</h1>
 
 ![image alt](https://github.com/Aadarshkumarsingh8084/New-project/blob/0c11b8e303d4e82ae573b0a4ca4d559607a7a9ad/Screenshot%202025-03-20%20090810.png)
 
